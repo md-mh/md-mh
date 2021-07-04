@@ -56,6 +56,7 @@ img{
     border-image-slice: 1;
 }
 #graphich{
+    background-color: aliceblue;
     border-left: 7px solid;
     border-image: linear-gradient(skyblue, blue);
     border-image-slice: 1;
