@@ -37,39 +37,34 @@ export default function Projects() {
   const projects = [
     {
       title: "Chatuapp - AI-powered Chat Application",
-      desc: "A real-time, AI-driven chat platform designed for universities and consultants. Features GPT-like AI assistance, real-time messaging, and role-based communication to streamline student–university interactions.",
+      desc: "A real-time, AI-driven chat platform designed for universities and students. Features GPT-like AI assistance, real-time messaging and custom bot create, training and sharing.",
       link: "https://chatuapp.com/",
     },
     {
       title: "Lead and Event Management System (UAPP LMS)",
-      desc: "A comprehensive system to manage leads, events, and student engagement for educational consultants. Includes a custom form builder, event tracking, analytics dashboard, and CRM-style workflow automation.",
+      desc: "A comprehensive system to manage leads, events, and student engagement for educational consultants. Includes a custom form builder, event tracking and CRM-style workflow automation.",
       link: "https://lead.uapp.uk/",
     },
     {
-      title: "UAPP - University Application System",
-      desc: "A global SaaS platform for managing university applications, connecting 180+ universities, 7,000+ students, and 650+ consultants. Provides real-time tracking, document verification, and AI-based application matching.",
+      title: "UAPP - Website and Portal",
+      desc: "A global SaaS platform for managing university applications, connecting 180+ universities, 7,000+ students, and 650+ consultants. Provides real-time tracking, document verification, and application management.",
       link: "https://uapp.uk/",
     },
     {
-      title: "Exhort Design - E-commerce Website",
-      desc: "A modern, high-performance e-commerce website optimized for better conversions and SEO. Built with responsive design, smooth UI/UX, and dynamic product management to enhance the online shopping experience.",
-      link: "https://exhortdesign.com/",
+      title: "HR Care - HR Management System",
+      desc: "HR Care is a web-based Human Resource Management System that helps organizations manage daily HR operations such as attendance, leave requests, payroll, employee ID cards, and task assignments.",
+      link: "https://hr-care-management.netlify.app",
     },
     {
-      title: "UAPP Portal - University & Consultant Dashboard",
-      desc: "An advanced portal for universities and consultants to track applications, manage student profiles, and communicate efficiently. Includes analytics, report generation, and automated notifications for application updates.",
-      link: "https://portal.uapp.uk/",
+      title: "Exhort Design - E-commerce Website",
+      desc: "A modern, high-performance e-commerce website optimized for better SEO. Built with responsive design, smooth UI/UX, and dynamic product management to enhance the online shopping experience.",
+      link: "https://exhortdesign.com/",
     },
     {
       title: "Umoja Microfinance - Digital Microfinance Solution",
       desc: "A fintech solution for managing microfinance operations digitally. Includes customer onboarding, loan tracking, payment management, and reporting modules to simplify financial operations for microfinance institutions.",
       link: "https://mfug.umoja-international.com/Auth/Account/Login",
       // link: "https://sobhisab.netlify.app/",
-    },
-    {
-      title: "UAPP - University Application System",
-      desc: "A global SaaS platform for managing university applications, connecting 180+ universities, 7,000+ students, and 650+ consultants. Provides real-time tracking, document verification, and AI-based application matching.",
-      link: "https://hrcare.netlify.app/",
     },
   ];
 
@@ -98,20 +93,18 @@ export default function Projects() {
                     src={p.link}
                     className="w-full h-full mb-3 rounded"
                     loading="lazy"
-                    onError={(e) => {
-                      // If iframe fails to load (e.g., X-Frame-Options), show a fallback message
-                      const parent = e.target.parentNode;
-                      if (parent) {
-                        parent.innerHTML = `
-                          <div class="flex flex-col items-center justify-center h-full w-full bg-gray-100 rounded p-6 text-center">
-                            <div class="text-lg font-semibold mb-2">Preview not available</div>
-                            <div class="text-sm text-gray-500 mb-2">This site does not allow embedding.</div>
-                            <a href="${p.link}" target="_blank" class="text-blue-600 underline">Open in new tab</a>
-                          </div>
-                        `;
-                      }
-                    }}
                     style={{ overflow: "hidden" }}
+                    onError={(e) => {
+                      e.target.style.display = "none";
+                      const img = document.createElement("img");
+                      img.src = `https://www.google.com/s2/favicons?domain=${
+                        new URL(p.link).hostname
+                      }`;
+                      img.alt = `${p.title} preview image`;
+                      img.className =
+                        "w-full h-full mb-3 rounded object-contain bg-gray-100";
+                      e.target.parentNode.appendChild(img);
+                    }}
                   ></iframe>
                 </div>
               )}
