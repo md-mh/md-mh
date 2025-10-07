@@ -23,6 +23,10 @@ export default function App() {
     // minimal => default vars
   }, [theme]);
 
+  //  github-token: ${{ secrets.GITHUB_TOKEN }}
+  //  NETLIFY_AUTH_TOKEN: nfp_kEoxCJQkm8mtQ1zpFgW5UXXHbhee3KHB1574
+  //  NETLIFY_SITE_ID: d4692f94-9979-459c-9c6d-4faa2a41ded9
+
   return (
     <div ref={rootRef} className="min-h-screen flex flex-col">
       <Header theme={theme} setTheme={setTheme} />
