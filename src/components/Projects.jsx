@@ -43,9 +43,9 @@ export default function Projects() {
   return (
     <section id="projects" className="pt-20">
       <div className="container mx-auto">
-        <h2 className="text-2xl font-semibold">Recent Projects</h2>
+        <h2 className="text-2xl font-semibold">Professional Projects</h2>
         <p className="text-gray-600">
-          A selection of recent projects I've built or contributed to,
+          A selection of professional projects I've built or contributed to,
           showcasing experience with SaaS platforms, AI, e-commerce, and digital
           solutions.
         </p>
