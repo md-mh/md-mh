@@ -1,10 +1,11 @@
 # Hello, I'm Md. Mahedi Hassan
 
-Results-driven Senior Software Engineer based in Bangladesh 🇧🇩, specializing in full-stack web development with expertise in JavaScript, React.js, Next.js, and Node.js. Proven ability to architect and deliver scalable applications across EdTech, FinTech, HR, and e-commerce sectors. Committed to writing high-quality, accessible code and enhancing user experience. Experienced in leading front-end teams and seamlessly integrating back-end solutions, while staying current with emerging technologies.
+Results-driven Software Engineer, specializing in full-stack web development with expertise in JavaScript, React.js, Next.js, and Node.js. Proven ability to architect and deliver scalable applications across EdTech, FinTech, HR, and e-commerce sectors. Committed to writing high-quality, accessible code and enhancing user experience. Experienced in leading front-end teams and seamlessly integrating back-end solutions, while staying current with emerging technologies.
 
 ## 🚀 Technical Expertise
 
-**Frontend Development**  
+**Frontend Development**
+
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -24,7 +25,8 @@ Results-driven Senior Software Engineer based in Bangladesh 🇧🇩, specializi
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth.js-000?style=flat&logo=nextdotjs&logoColor=white)
 
-**Backend & Database**  
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
@@ -36,7 +38,8 @@ Results-driven Senior Software Engineer based in Bangladesh 🇧🇩, specializi
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-61DAFB?style=flat&logo=mail.ru&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
-**Development Tools & Platforms**  
+**Development Tools & Platforms**
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1769E0?style=flat&logo=cursor&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -60,6 +63,6 @@ Results-driven Senior Software Engineer based in Bangladesh 🇧🇩, specializi
 
 - 📧 Email: [mmahedi49@gmail.com](mailto:mmahedi49@gmail.com)
 - 🌐 Portfolio: [md-mh.netlify.app](https://md-mh.netlify.app)
-- 🔗 [LinkedIn](https://linkedin.com/in/mdmh94) • [GitHub](https://github.com/md-mh)
+- 🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/mdmh94)
 
 ---
