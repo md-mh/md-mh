@@ -5,10 +5,15 @@ I am a results-driven Software Engineer specializing in React.js, Next.js, TypeS
 I’m passionate about:
 
 ✔ Building pixel-perfect, responsive, and accessible UIs
+
 ✔ Crafting clean, maintainable, and scalable front-end architecture
+
 ✔ Optimizing performance, SEO, and user experience
+
 ✔ Collaborating with cross-functional teams to ship impactful features
+
 ✔ Mentoring developers and improving engineering workflows
+
 ✔ Solving problems with modern tools like React, Next.js, Redux, TanStack Query, Tailwind, and TypeScript
 
 Key Highlights:
