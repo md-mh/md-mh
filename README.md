@@ -3,21 +3,21 @@
 I am a results-driven Software Engineer specializing in React.js, Next.js, TypeScript, and Node.js. Professional experience building high-performance, scalable web applications. I architect complex systems, manage a team of developers, and deliver modern, user-focused products across EdTech, FinTech, HR, Ecommerce, and large-scale application platforms.
 
 I’m passionate about:
-✔ Building pixel-perfect, responsive, and accessible UIs
-✔ Crafting clean, maintainable, and scalable front-end architecture
-✔ Optimizing performance, SEO, and user experience
-✔ Collaborating with cross-functional teams to ship impactful features
-✔ Mentoring developers and improving engineering workflows
-✔ Solving problems with modern tools like React, Next.js, Redux, TanStack Query, Tailwind, and TypeScript
+
+- ✔ Building pixel-perfect, responsive, and accessible UIs
+- ✔ Crafting clean, maintainable, and scalable front-end architecture
+- ✔ Optimizing performance, SEO, and user experience
+- ✔ Collaborating with cross-functional teams to ship impactful features
+- ✔ Mentoring developers and improving engineering workflows
+- ✔ Solving problems with modern tools like React, Next.js, Redux, TanStack Query, Tailwind, and TypeScript
 
 Key Highlights:
 
-Led development of real-time chat systems, university application portals, and large multi-module dashboards
-Strong knowledge of REST APIs, authentication, state management, and WebSocket real-time communication
-Experience in planning, documentation, system design, and working with international teams
-Skilled in transforming Figma designs into flawless production-ready interfaces
-I’m always open to new challenges, exciting opportunities, and meaningful collaborations—especially in product-driven environments focused on quality and innovation.
-
+- Led development of real-time chat systems, university application portals, and large multi-module dashboards
+- Strong knowledge of REST APIs, authentication, state management, and WebSocket real-time communication
+- Experience in planning, documentation, system design, and working with international teams
+- Skilled in transforming Figma designs into flawless production-ready interfaces
+- I’m always open to new challenges, exciting opportunities, and meaningful collaborations—especially in product-driven environments focused on quality and innovation.
 
 ## 🚀 Technical Expertise
 
