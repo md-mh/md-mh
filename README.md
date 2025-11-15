@@ -1,6 +1,23 @@
 # Hello, I'm Md. Mahedi Hassan
 
-Results-driven Software Engineer, specializing in full-stack web development with expertise in JavaScript, React.js, Next.js, and Node.js. Proven ability to architect and deliver scalable applications across EdTech, FinTech, HR, and e-commerce sectors. Committed to writing high-quality, accessible code and enhancing user experience. Experienced in leading front-end teams and seamlessly integrating back-end solutions, while staying current with emerging technologies.
+I am a results-driven Software Engineer specializing in React.js, Next.js, TypeScript, and Node.js. Professional experience building high-performance, scalable web applications. I architect complex systems, manage a team of developers, and deliver modern, user-focused products across EdTech, FinTech, HR, Ecommerce, and large-scale application platforms.
+
+I’m passionate about:
+✔ Building pixel-perfect, responsive, and accessible UIs
+✔ Crafting clean, maintainable, and scalable front-end architecture
+✔ Optimizing performance, SEO, and user experience
+✔ Collaborating with cross-functional teams to ship impactful features
+✔ Mentoring developers and improving engineering workflows
+✔ Solving problems with modern tools like React, Next.js, Redux, TanStack Query, Tailwind, and TypeScript
+
+Key Highlights:
+
+Led development of real-time chat systems, university application portals, and large multi-module dashboards
+Strong knowledge of REST APIs, authentication, state management, and WebSocket real-time communication
+Experience in planning, documentation, system design, and working with international teams
+Skilled in transforming Figma designs into flawless production-ready interfaces
+I’m always open to new challenges, exciting opportunities, and meaningful collaborations—especially in product-driven environments focused on quality and innovation.
+
 
 ## 🚀 Technical Expertise
 
