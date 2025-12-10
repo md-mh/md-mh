@@ -4,37 +4,37 @@ export default function Projects() {
   const projects = [
     {
       title: "Chatuapp - AI-powered Chat Application",
-      desc: "A real-time, AI-driven chat platform designed for universities and students. Features GPT-like AI assistance, real-time messaging and custom bot create, training and sharing.",
+      desc: "An advanced AI-powered communication platform designed to streamline interactions and enhance user engagement. It offers real-time chat capabilities, tools for building and customizing chatbots, and integrated model-training features to fine-tune responses based on your specific needs. The platform also supports robust user-based access control to manage permissions securely. Additionally, it includes an embeddable chat widget that allows effortless integration with external websites and applications, enabling a seamless and scalable communication experience.",
       link: "https://chatuapp.com/",
       image: "/project/chatuapp.png",
     },
     {
       title: "Lead and Event Management System (UAPP LMS)",
-      desc: "A comprehensive system to manage leads, events, and student engagement for educational consultants. Includes a custom form builder, event tracking and CRM-style workflow automation.",
+      desc: "A robust lead and event management system that allows users to create custom forms using a dynamic form builder for capturing leads, managing and tracking event details, and planning events efficiently with advanced organizational tools and designs. It streamlines lead collection, event scheduling, and overall event execution for better productivity and engagement. The platform also offers analytics and reporting features to monitor lead performance and event success. After success, the lead user becomes a student at the Uapp portal",
       link: "https://lead.uapp.uk/",
       image: "/project/lead.png",
     },
     {
       title: "UAPP - Website and Portal",
-      desc: "A global SaaS platform for managing university applications, connecting 180+ universities, 7,000+ students, and 650+ consultants. Provides real-time tracking, document verification, and application management.",
+      desc: "Developed the official UAPP website using Next.js, delivering a modern, responsive, and SEO-optimized platform. UAPP is a global SaaS university application management system connecting 180+ universities, 7,000+ students, and 650+ consultants. It features role-based access control, menu management, and modules for students, consultants, staff, providers, and admissions, offering real-time tracking, document verification, application management, a user-friendly interface, and a powerful admin dashboard for seamless platform management",
       link: "https://uapp.uk/",
       image: "/project/uapp.png",
     },
     {
       title: "HR Care - HR Management System",
-      desc: "HR Care is a web-based Human Resource Management System that helps organizations manage daily HR operations such as attendance, leave requests, payroll, employee ID cards, and task assignments.",
+      desc: "HR Care is a web-based Human Resource Management System that helps organizations manage daily HR operations such as attendance, leave requests, payroll, employee ID cards, and task assignments. It includes a comprehensive dashboard for managing HR operations, a user-friendly interface for employees and managers, and a powerful admin panel for managing the platform and its users. The platform also offers analytics and reporting features to monitor HR operations and employee performance.",
       link: "https://hr-care-management.netlify.app",
       image: "/project/hrcare.png",
     },
     {
       title: "Exhort Design - E-commerce Website",
-      desc: "A modern, high-performance e-commerce website optimized for better SEO. Built with responsive design, smooth UI/UX, and dynamic product management to enhance the online shopping experience.",
+      desc: "Exhort Design features a responsive, mobile-first design with fast loading and optimized performance. It includes a structured product catalog with categories, search and filtering tools, shopping cart and secure checkout, user account management, and an admin dashboard for managing products, orders, and users. The platform is SEO-friendly, scalable, and built for easy maintenance and future enhancements. There also have a contact form for customers to contact the company.",
       link: "https://exhortdesign.com/",
       image: "/project/exhort.png",
     },
     {
       title: "Umoja Microfinance - Digital Microfinance Solution",
-      desc: "A fintech solution for managing microfinance operations digitally. Includes customer onboarding, loan tracking, payment management, and reporting modules to simplify financial operations for microfinance institutions.",
+      desc: "Umoja Microfinance is a fintech solution for managing microfinance operations digitally. It includes customer onboarding, loan tracking, payment management, and reporting modules to simplify financial operations for microfinance institutions. The platform is built with modern technologies and is designed to be user-friendly and efficient. It includes a comprehensive dashboard for managing microfinance operations, a user-friendly interface for customers and administrators, and a powerful admin panel for managing the platform and its users.",
       link: "https://mfug.umoja-international.com/Auth/Account/Login",
       image: "/project/umoja.png",
     },
