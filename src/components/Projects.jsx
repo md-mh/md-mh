@@ -5,7 +5,7 @@ export default function Projects() {
     {
       title: "Chatuapp - AI-powered Chat Application",
       desc: "An advanced AI-powered communication platform designed to streamline interactions and enhance user engagement. It offers real-time chat capabilities, tools for building and customizing chatbots, and integrated model-training features to fine-tune responses based on your specific needs. The platform also supports robust user-based access control to manage permissions securely. Additionally, it includes an embeddable chat widget that allows effortless integration with external websites and applications, enabling a seamless and scalable communication experience.",
-      link: "https://chatuapp.com/",
+      link: "https://chatuapp.ai/",
       image: "/project/chatuapp.png",
     },
     {
